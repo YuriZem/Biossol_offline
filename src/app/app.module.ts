@@ -6,6 +6,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { TrataErroService } from './servicos/trata-erro.service';
 
 @NgModule({
   declarations: [AppComponent],
